@@ -53,6 +53,8 @@ S. No.	VGS (V)	VDS (V)	ID (mA)
    <img width="1600" height="391" alt="WhatsApp Image 2026-11-19 at 10 11 43 AM" src="https://github.com/user-attachments/assets/14b65073-5991-417f-89c7-02b21f223007" />
 
 2			graph diagram
+
+
 <img width="1600" height="464" alt="WhatsApp Image 2026-11-19 at 10 11 43 AM" src="https://github.com/user-attachments/assets/36abd03c-ddec-442a-9c67-b202d3c0ef3c" />
 
 3			
